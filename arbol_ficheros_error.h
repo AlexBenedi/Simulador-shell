@@ -1,7 +1,5 @@
 /**
- * Autor: Alejandro Benedi Andrés   Nip: 843826 
- * Autor: Javier Julve Yubero       Nip: 840710
- *            
+ * Autor: Alejandro Benedi Andrés   Nip: 843826        
  * Coms: En este fichero se encuentran todos las
  *          excepciones que se pueden lanzar.
 **/
