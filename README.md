@@ -1,6 +1,6 @@
 String pwd()
   - Devuelve la ruta completa de forma textual, con todos los nombres de los directorios desde la raíz hasta el directorio actual concatenados y separados por el separador '/'.
-string ls()
+String ls()
   - Devuelve un listado con el nombre de todos los nodos contenidos en la ruta actual, uno por línea.
 string du()
   - Devuelve un listado con el nombre y el tamaño de todos los nodos contenidos en la ruta actual, uno por línea.
