@@ -1,3 +1,5 @@
+Implementacion de un simulador de shell sin persisntencia de almacenarmiento ( una vez terminada la ejeucion del programa  se pierda la informacion)
+
 A continuacion se detallan algunos de los comandos que se pueden ejecutar dentro del simulador:
 
 + pwd()
